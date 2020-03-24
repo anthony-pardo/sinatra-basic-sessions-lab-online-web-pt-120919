@@ -8,6 +8,7 @@ gem 'sinatra'
     gem 'thin'
     gem 'shotgun'
     gem 'pry'
+    gem 'sysrandom'
     gem 'require_all'
     
 group :test do
